@@ -10,7 +10,7 @@
 
 With a background in law and a passion for innovation, I transitioned into the blockchain space to help bridge the gap between cutting-edge technology and real-world application. At Dante Labs, I focus on:
 
-- Hiring top blockchain talent (Solidity, React, Node.js)
+- Hiring top talent (Solidity, React, Node.js)
 - Building partnerships with Web3 projects
 - Leading BD strategy for decentralized products
 
@@ -31,9 +31,9 @@ We’re always open to partnerships, collaboration, and hiring talented develope
 
 ## 📬 Let's Connect
 
-- 🌐 [Website](https://dantelabs.io)
-- 💼 [LinkedIn](https://www.linkedin.com/in/vincenzo-caso-018157b7/)
-- ✈️ Telegram: [@DanteBDM](https://t.me/DanteBDM)
+- Website [Website](https://dantelabs.io)
+- LinkedIn [LinkedIn](https://www.linkedin.com/in/vincenzo-caso-018157b7/)
+- Telegram: [@DanteBDM](https://t.me/DanteBDM)
 
 ---
 
